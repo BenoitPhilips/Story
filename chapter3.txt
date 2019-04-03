@@ -2,4 +2,7 @@ Chapter 3 :
 
 And this file will help also to see the changes being monitored by Git
 
-As in teststory, some text was added, we added also some text on the master branch.
+As in teststory, some text was added, we added also some text on the master branch.And this file will help also to see the changes being monitored by Git
+
+Hier hebben we wat tekst bijgevoegd voor de teststory
+
