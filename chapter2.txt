@@ -1,3 +1,10 @@
 Chapter2 :
 
 Exercise for using Git and see the differences
+
+In the teststory, we inserted, replaced (the word differences) and deleted (the word Exercise).
+
+So we will replace the word differences to create a conflict :
+- differences becomes mechanism
+- Exercise is replaced by workshop
+- Git is modified by Github
