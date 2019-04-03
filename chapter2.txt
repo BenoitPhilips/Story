@@ -1,3 +1,7 @@
 Chapter2 :
 
-Exercise for using Git and see the differences
+for using Git and see the functioning
+
+In this chapter 2, we added some text while being on branch teststory.
+We also deleted the word "Exercise" in from of textline 2.
+and finally we replace the word differences by functioning also on text line 2
