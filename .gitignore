@@ -1,6 +1,7 @@
 .DS_Store
 Preferences.txt
 SecretChapter.txt
+*.orig
 
 #-------------------------------------------------------------------------
 #Kardinaalteken dient als commentaar
