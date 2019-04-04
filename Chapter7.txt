@@ -3,3 +3,7 @@ Chapter 7
 Created by Benoit Philips 2.
 
 It should become available to Benoit Philips too.
+
+BPH2 : Renamed the file as the first character of the filename was capitalised by accident
+
+---
